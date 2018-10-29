@@ -32,3 +32,6 @@ Please read through our [contributing guidelines](.github/CONTRIBUTING.md). Incl
 ## Copyright and license
 
 Code and documentation copyright 2017 Igoy Nawamreh. Code released under the [MIT License](LICENSE). Docs released under [Creative Commons](docs/LICENSE).
+
+## Optimization is required 
+## Need improvement in SEO Meta tags
